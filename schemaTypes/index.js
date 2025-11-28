@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import { personType } from "./blog";
+
+export const schemaTypes = [personType]
